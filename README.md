@@ -31,7 +31,7 @@ A solução contém dois projetos:
 
 #  Como executar a Aplicação
 
-1. Ir na pasta do projeto ItauValidator:  **C:\<pasta_solucao>\ItauValidator\** 
+1. Ir na pasta do projeto ItauValidator:  **C:\\<pasta_solucao>\ItauValidator\** 
 2. Rodar o comando: **dotnet run**
 
 ### Configuração AppSettings:
@@ -47,9 +47,9 @@ Sample:
 
 # Como executar os unitTests
 
-1. Ir na pasta do projeto UnitTest:  **C:\<pasta_solucao>\UnitTest\** 
+1. Ir na pasta do projeto UnitTest:  **C:\\<pasta_solucao>\UnitTest\** 
 2. Rodar o comando: **dotnet test**
 
 # Postman Collection:
 
-1. Localizado na Pasta:  **C:\<pasta_solucao>\Postman** 
+1. Localizado na Pasta:  **C:\\<pasta_solucao>\Postman** 
