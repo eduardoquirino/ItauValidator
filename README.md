@@ -34,6 +34,17 @@ A solução contém dois projetos:
 1. Ir na pasta do projeto ItauValidator:  **C:\<pasta_solucao>\ItauValidator\** 
 2. Rodar o comando: **dotnet run**
 
+### Configuração AppSettings:
+
+#### Regex
+
+O Padrao regex está localizado no appsettings.json
+
+**OBS**: Ao rodar a solução local considerar o appsettings.Development.json
+
+Sample:
+ "CustomConfiguration": { "RegexPwd": "^(?:([A-Za-z0-9#?!+@$%^&*-])(?!.*\\1)){9,}$" }
+
 # Como executar os unitTests
 
 1. Ir na pasta do projeto UnitTest:  **C:\<pasta_solucao>\UnitTest\** 
