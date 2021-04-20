@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItauValidator", "ItauValidator\ItauValidator.csproj", "{7EC0E5DE-A937-465E-B752-C11A969DF8E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A0E084B7-3199-46A8-AF62-48293C06FA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC0E5DE-A937-465E-B752-C11A969DF8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC0E5DE-A937-465E-B752-C11A969DF8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC0E5DE-A937-465E-B752-C11A969DF8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC0E5DE-A937-465E-B752-C11A969DF8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E084B7-3199-46A8-AF62-48293C06FA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E084B7-3199-46A8-AF62-48293C06FA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E084B7-3199-46A8-AF62-48293C06FA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E084B7-3199-46A8-AF62-48293C06FA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C7F327-FBD9-4B87-BB73-6A85A5D4DA71}
+	EndGlobalSection
+EndGlobal

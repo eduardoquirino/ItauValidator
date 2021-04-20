@@ -1,0 +1,15 @@
+{
+   
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+ 
+    "ItauValidator": {
+      "commandName": "Project",
+      "launchUrl": "ItauValidator",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
